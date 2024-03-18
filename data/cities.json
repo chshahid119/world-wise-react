@@ -1,258 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Lahore",
-      "country": "Pakistan",
-      "emoji": "PK",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Heart of Pakistan",
-      "position": {
-        "lat": 31.532548831072294,
-        "lng": 74.31989749999998
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Alcadozo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:21:51.176Z",
-      "notes": "Test",
-      "position": {
-        "lat": "38.659777730712534",
-        "lng": "-2.1093750000000004"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Ronda",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:21:51.176Z",
-      "notes": "Test",
-      "position": {
-        "lat": "36.85325222344018",
-        "lng": "-5.284423828125"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Nonaspe",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:25:50.426Z",
-      "notes": "fasfdawdfasd",
-      "position": {
-        "lat": "41.236511201246216",
-        "lng": "0.20874023437500003"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Santa Cruz de la Zarza",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:29:16.069Z",
-      "notes": "fsdfasfdas",
-      "position": {
-        "lat": "39.90973623453719",
-        "lng": "-3.175048828125"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Villarta de los Montes",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:29:28.131Z",
-      "notes": "sadfsdfss",
-      "position": {
-        "lat": "39.257778150283364",
-        "lng": "-4.833984375000001"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Topas",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:29:28.131Z",
-      "notes": "sadfsdfss",
-      "position": {
-        "lat": "41.16211393939692",
-        "lng": "-5.690917968750001"
-      },
-      "id": 98443204
-    },
-    {
-      "cityName": "Santa Cruz de Paniagua",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:29:28.131Z",
-      "notes": "sadfsdfss",
-      "position": {
-        "lat": "40.153686857794035",
-        "lng": "-6.295166015625001"
-      },
-      "id": 98443205
-    },
-    {
-      "cityName": "Cabeza la Vaca",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:29:28.131Z",
-      "notes": "sadfsdfss",
-      "position": {
-        "lat": "38.09133660751176",
-        "lng": "-6.416015625000001"
-      },
-      "id": 98443206
-    },
-    {
-      "cityName": "Cabeza la Vaca",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:30:54.591Z",
-      "notes": "dfasfasdf",
-      "position": {
-        "lat": "38.09133660751176",
-        "lng": "-6.416015625000001"
-      },
-      "id": 98443207
-    },
-    {
-      "cityName": "Cabeza la Vaca",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:30:54.591Z",
-      "notes": "dfasdfsadfsad",
-      "position": {
-        "lat": "38.09133660751176",
-        "lng": "-6.416015625000001"
-      },
-      "id": 98443208
-    },
-    {
-      "cityName": "Casas de Don Pedro",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:30:54.591Z",
-      "notes": "sadfasdfsadf",
-      "position": {
-        "lat": "39.2832938689385",
-        "lng": "-5.339355468750001"
-      },
-      "id": 98443209
-    },
-    {
-      "cityName": "Navalonguilla",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:30:54.591Z",
-      "notes": "sdfasdfasdf",
-      "position": {
-        "lat": "40.212440718286466",
-        "lng": "-5.570068359375001"
-      },
-      "id": 98443210
-    },
-    {
-      "cityName": "Villacastin",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:30:54.591Z",
-      "notes": "dsfasdfsdf",
-      "position": {
-        "lat": "40.730608477796636",
-        "lng": "-4.427490234375001"
-      },
-      "id": 98443211
-    },
-    {
-      "cityName": "Ibeas de Juarros",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:30:54.591Z",
-      "notes": "dasdfsdf",
-      "position": {
-        "lat": "42.342305278572816",
-        "lng": "-3.5266113281250004"
-      },
-      "id": 98443212
-    },
-    {
-      "cityName": "Arraia-Maeztu",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:30:54.591Z",
-      "notes": "asdfasdfsa",
-      "position": {
-        "lat": "42.79540065303723",
-        "lng": "-2.4499511718750004"
-      },
-      "id": 98443213
-    },
-    {
-      "cityName": "Pinuecar-Gandullas",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:31:50.067Z",
-      "notes": "sdfsadfa",
-      "position": {
-        "lat": "41.03793062246529",
-        "lng": "-3.6145019531250004"
-      },
-      "id": 98443214
-    },
-    {
-      "cityName": "Pinuecar-Gandullas",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-18T01:31:50.067Z",
-      "notes": "sdfsadfa",
-      "position": {
-        "lat": "41.03793062246529",
-        "lng": "-3.6145019531250004"
-      },
-      "id": 98443215
-    },
-    {
       "cityName": "Pinuecar-Gandullas",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -491,6 +239,30 @@
         "lng": "-2.6147460937500004"
       },
       "id": 98443235
+    },
+    {
+      "cityName": "Villanueva de Alcardete",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-18T19:45:00.114Z",
+      "notes": "dasdfasdf",
+      "position": {
+        "lat": "39.74943369178247",
+        "lng": "-3.021240234375"
+      },
+      "id": 98443236
+    },
+    {
+      "cityName": "Helechosa de los Montes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-18T19:45:07.654Z",
+      "notes": "dfssdfa",
+      "position": {
+        "lat": "39.33429742980725",
+        "lng": "-4.866943359375"
+      },
+      "id": 98443237
     }
   ]
 }
